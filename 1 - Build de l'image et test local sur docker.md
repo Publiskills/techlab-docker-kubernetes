@@ -1,6 +1,6 @@
 # Build de l'image et test local sur docker
 
-Nous partons sur le projet Lab survey ([https://github.com/Riges/lab-survey/tree/dotnet-core-proxy](https://github.com/Riges/lab-survey/tree/dotnet-core-proxy)). Cela va nous permettre d'avoir un front et son api dissocié du stockage qui sera un Redis.
+Nous partons sur le projet Lab survey ([https://github.com/Riges/lab-survey/tree/dotnet-core-proxy](https://github.com/Riges/lab-survey/tree/dotnet-core-proxy)). Cela va nous permettre d'avoir un front et son api dissociés du stockage qui sera un Redis.
 
 ## Definition des services 📝
 
